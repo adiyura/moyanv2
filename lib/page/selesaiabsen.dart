@@ -69,7 +69,7 @@ class _selesaiabsenState extends State<selesaiabsen> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.pushNamed(context, "/HomePage");
+                    Navigator.pushNamed(context, "/Homepage");
                   },
                 ),
               ),
